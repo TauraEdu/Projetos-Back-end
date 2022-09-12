@@ -4,7 +4,7 @@ Durante o curso utilizei Docker, SQL, JOINS, MySQL, NODE.JS e a construção de 
 
 # Projetos-Back-end
 
-01 - Projeto - Docker Todo-List -  Este projeto serviu para fixar o aprendizado do bloco de Docker.
+01 - Projeto - Docker Todo-List -  Este projeto serviu para fixar o aprendizado do bloco de Docker 🐋.
 
 02 - Projeto - All For One
 
